@@ -1,0 +1,96 @@
+2023/07/27-20:58:16.146 18ec Creating DB E:\Arquivos\Programação\Autodidata\Projetos\chatbot wpp gpt\tokens\chatbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/07/27-20:58:16.291 18ec Reusing MANIFEST E:\Arquivos\Programação\Autodidata\Projetos\chatbot wpp gpt\tokens\chatbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-20:58:16.601 32b0 Level-0 table #5: started
+2023/07/27-20:58:16.711 32b0 Level-0 table #5: 12834 bytes OK
+2023/07/27-20:58:16.782 32b0 Delete type=0 #3
+2023/07/27-20:58:16.782 30bc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/27-20:58:18.566 28d0 Level-0 table #7: started
+2023/07/27-20:58:18.667 28d0 Level-0 table #7: 20401 bytes OK
+2023/07/27-20:58:18.747 28d0 Delete type=0 #4
+2023/07/27-20:58:18.748 32b0 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/27-20:59:45.741 18ec Level-0 table #9: started
+2023/07/27-20:59:45.853 18ec Level-0 table #9: 1114802 bytes OK
+2023/07/27-20:59:45.881 18ec Delete type=0 #6
+2023/07/27-20:59:46.127 30bc Compacting 1@0 + 1@1 files
+2023/07/27-20:59:46.253 30bc Generated table #10@0: 26121 keys, 722618 bytes
+2023/07/27-20:59:46.253 30bc Compacted 1@0 + 1@1 files => 722618 bytes
+2023/07/27-20:59:46.296 30bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-20:59:48.272 18ec Level-0 table #12: started
+2023/07/27-20:59:48.388 18ec Level-0 table #12: 1006262 bytes OK
+2023/07/27-20:59:48.428 18ec Delete type=2 #7
+2023/07/27-20:59:48.428 18ec Delete type=0 #8
+2023/07/27-20:59:48.428 18ec Delete type=2 #9
+2023/07/27-20:59:48.669 32b0 Compacting 1@0 + 1@1 files
+2023/07/27-20:59:48.789 32b0 Generated table #13@0: 49483 keys, 1258833 bytes
+2023/07/27-20:59:48.789 32b0 Compacted 1@0 + 1@1 files => 1258833 bytes
+2023/07/27-20:59:48.840 32b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-20:59:48.841 32b0 Delete type=2 #10
+2023/07/27-20:59:48.841 32b0 Delete type=2 #12
+2023/07/27-21:00:48.394 18ec Level-0 table #15: started
+2023/07/27-21:00:48.513 18ec Level-0 table #15: 1050571 bytes OK
+2023/07/27-21:00:48.536 18ec Delete type=0 #11
+2023/07/27-21:00:48.704 18ec Compacting 1@0 + 1@1 files
+2023/07/27-21:00:48.898 18ec Generated table #16@0: 71874 keys, 1708907 bytes
+2023/07/27-21:00:48.898 18ec Compacted 1@0 + 1@1 files => 1708907 bytes
+2023/07/27-21:00:48.916 18ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-21:00:48.917 18ec Delete type=2 #13
+2023/07/27-21:00:48.917 18ec Delete type=2 #15
+2023/07/27-21:00:56.179 18ec Level-0 table #18: started
+2023/07/27-21:00:56.275 18ec Level-0 table #18: 1275457 bytes OK
+2023/07/27-21:00:56.296 18ec Delete type=0 #14
+2023/07/27-21:00:56.299 18ec Compacting 1@0 + 1@1 files
+2023/07/27-21:00:56.383 18ec Level-0 table #21: started
+2023/07/27-21:00:56.466 18ec Level-0 table #21: 1289861 bytes OK
+2023/07/27-21:00:56.547 18ec Delete type=0 #17
+2023/07/27-21:00:56.673 18ec Generated table #19@0: 70006 keys, 2243376 bytes
+2023/07/27-21:00:56.785 18ec Generated table #22@0: 12668 keys, 653171 bytes
+2023/07/27-21:00:56.785 18ec Compacted 1@0 + 1@1 files => 2896547 bytes
+2023/07/27-21:00:56.806 18ec compacted to: files[ 1 2 1 0 0 0 0 ]
+2023/07/27-21:00:56.807 18ec Delete type=2 #16
+2023/07/27-21:00:56.807 18ec Delete type=2 #18
+2023/07/27-21:00:56.809 18ec Level-0 table #24: started
+2023/07/27-21:00:56.906 18ec Level-0 table #24: 1234753 bytes OK
+2023/07/27-21:00:56.927 18ec Delete type=0 #20
+2023/07/27-21:00:56.931 18ec Compacting 2@0 + 2@1 files
+2023/07/27-21:00:57.185 18ec Generated table #25@0: 79500 keys, 2252959 bytes
+2023/07/27-21:00:57.185 18ec Level-0 table #27: started
+2023/07/27-21:00:57.266 18ec Level-0 table #27: 1175877 bytes OK
+2023/07/27-21:00:57.288 18ec Delete type=0 #23
+2023/07/27-21:00:57.416 18ec Generated table #28@0: 7652 keys, 2179934 bytes
+2023/07/27-21:00:57.416 18ec Level-0 table #30: started
+2023/07/27-21:00:57.507 18ec Level-0 table #30: 1192023 bytes OK
+2023/07/27-21:00:57.529 18ec Delete type=0 #26
+2023/07/27-21:00:57.627 18ec Generated table #31@0: 16094 keys, 977669 bytes
+2023/07/27-21:00:57.627 18ec Compacted 2@0 + 2@1 files => 5410562 bytes
+2023/07/27-21:00:57.661 18ec compacted to: files[ 2 3 1 0 0 0 0 ]
+2023/07/27-21:00:57.661 18ec Delete type=2 #19
+2023/07/27-21:00:57.661 18ec Delete type=2 #21
+2023/07/27-21:00:57.661 18ec Delete type=2 #22
+2023/07/27-21:00:57.661 18ec Delete type=2 #24
+2023/07/27-21:00:57.866 32b0 Compacting 2@0 + 3@1 files
+2023/07/27-21:00:57.906 32b0 Level-0 table #34: started
+2023/07/27-21:00:57.992 32b0 Level-0 table #34: 746084 bytes OK
+2023/07/27-21:00:58.012 32b0 Delete type=0 #29
+2023/07/27-21:00:58.149 32b0 Generated table #32@0: 88600 keys, 2258519 bytes
+2023/07/27-21:00:58.239 32b0 Generated table #35@0: 5581 keys, 2167613 bytes
+2023/07/27-21:00:58.360 32b0 Generated table #36@0: 13594 keys, 2201975 bytes
+2023/07/27-21:00:58.459 32b0 Generated table #37@0: 18015 keys, 1124764 bytes
+2023/07/27-21:00:58.460 32b0 Compacted 2@0 + 3@1 files => 7752871 bytes
+2023/07/27-21:00:58.483 32b0 compacted to: files[ 1 4 1 0 0 0 0 ]
+2023/07/27-21:00:58.483 32b0 Delete type=2 #25
+2023/07/27-21:00:58.483 32b0 Delete type=2 #27
+2023/07/27-21:00:58.484 32b0 Delete type=2 #28
+2023/07/27-21:00:58.484 32b0 Delete type=2 #30
+2023/07/27-21:00:58.484 32b0 Delete type=2 #31
+2023/07/27-21:01:00.058 18ec Compacting 1@0 + 4@1 files
+2023/07/27-21:01:00.245 18ec Generated table #38@0: 106762 keys, 2288175 bytes
+2023/07/27-21:01:00.374 18ec Generated table #39@0: 2906 keys, 2161792 bytes
+2023/07/27-21:01:00.517 18ec Generated table #40@0: 24969 keys, 2242627 bytes
+2023/07/27-21:01:00.557 18ec Generated table #41@0: 14907 keys, 302222 bytes
+2023/07/27-21:01:00.557 18ec Compacted 1@0 + 4@1 files => 6994816 bytes
+2023/07/27-21:01:00.584 18ec compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/07/27-21:01:00.585 18ec Delete type=2 #32
+2023/07/27-21:01:00.585 18ec Delete type=2 #34
+2023/07/27-21:01:00.585 18ec Delete type=2 #35
+2023/07/27-21:01:00.585 18ec Delete type=2 #36
+2023/07/27-21:01:00.585 18ec Delete type=2 #37
